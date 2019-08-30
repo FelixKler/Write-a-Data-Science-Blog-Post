@@ -17,7 +17,7 @@ As a part of the Data Scientist Nanodegree Program and as a player of PUBG I'm i
 3. Is camping more advantageous than a more agile (moving around) game play?
 
 ### File Descriptions <a name="files"></a>
-There is one notebook with the exploratory data analysis and one extra file with the description of the data.
+There is one notebook with the exploratory data analysis, one python script 'helpers.py' with two functions regarding visualisations and one extra file with the description of the data.
 
 ### Results <a name="results"></a>
 The results are provided in the post [here](https://medium.com/@felix.kler/how-to-win-in-playerunknowns-battleground-c7f780dabc38).
